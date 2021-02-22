@@ -6,8 +6,7 @@ title: "KPIs para o projeto"
 output: html_document
 ---
 
-{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)``` 
 
 
 
