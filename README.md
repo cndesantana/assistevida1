@@ -1,2 +1,28 @@
 # assistevida1
 Primeira parte do serviço de análise de dados para a Assiste Vida
+
+---
+title: "KPIs para o projeto"
+output: html_document
+---
+
+{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+
+## KPIs para serem calculados
+
+- On Time Delivery (OTD)
+- On Time Shipping
+- Order Cycle Time (OCT)
+- On Time In Full (OTIF)
+- Perfect Order Rate
+- Tempo médio de entrega
+
+## Métricas
+
+- perda por expiração
+- taxa de atendimento
+- taxa de desabastecimento
+- demanda reprimida
